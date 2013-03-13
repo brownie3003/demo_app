@@ -1,0 +1,32 @@
+# system.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+
+actionmailer -v3.2.12
+actionpack -v3.2.12
+activemodel -v3.2.12
+activerecord -v3.2.12
+activeresource -v3.2.12
+activesupport -v3.2.12
+arel -v3.0.2
+builder -v3.0.4
+bundler -v1.3.2
+erubis -v2.7.0
+hike -v1.2.1
+i18n -v0.6.4
+journey -v1.0.4
+json -v1.7.7
+mail -v2.4.4
+mime-types -v1.21
+multi_json -v1.6.1
+polyglot -v0.3.3
+rack -v1.4.5
+rack-cache -v1.2
+rack-ssl -v1.3.3
+rack-test -v0.6.2
+rails -v3.2.12
+railties -v3.2.12
+rdoc -v3.12.2
+sprockets -v2.2.2
+thor -v0.17.0
+tilt -v1.3.5
+treetop -v1.4.12
+tzinfo -v0.3.36
